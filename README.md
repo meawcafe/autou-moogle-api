@@ -1,4 +1,4 @@
-# 🚀 autou-ai-backend
+# 🚀 AUTOU Moogle API
 
 A backend service built with **Flask** and **Hugging Face**.
 

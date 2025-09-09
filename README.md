@@ -2,6 +2,8 @@
 
 A backend service built with **Flask** and **Hugging Face**.
 
+[Demo Video](https://www.youtube.com/watch?v=ZA20w9USzZc)
+
 ## 📦 Tech Stack
 
 - 🐍 [Flask](https://flask.palletsprojects.com/)
